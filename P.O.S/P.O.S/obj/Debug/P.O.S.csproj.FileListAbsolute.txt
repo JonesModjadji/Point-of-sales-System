@@ -20,3 +20,15 @@ H:\Jones\POS\P.O.S\P.O.S\obj\Debug\P.O.S.Purchase.resources
 H:\Jones\POS\P.O.S\P.O.S\obj\Debug\P.O.S.Register.resources
 H:\Jones\POS\P.O.S\P.O.S\obj\Debug\P.O.S.csproj.GenerateResource.Cache
 G:\Jones\POS\P.O.S\P.O.S\obj\Debug\P.O.S.Purchase.resources
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\bin\Debug\P.O.S.exe.config
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\obj\Debug\P.O.S.exe
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\obj\Debug\P.O.S.pdb
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\obj\Debug\P.O.S.csprojResolveAssemblyReference.cache
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\obj\Debug\P.O.S.Form1.resources
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\obj\Debug\P.O.S.Login.resources
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\obj\Debug\P.O.S.Properties.Resources.resources
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\obj\Debug\P.O.S.Purchase.resources
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\obj\Debug\P.O.S.Register.resources
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\obj\Debug\P.O.S.csproj.GenerateResource.Cache
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\bin\Debug\P.O.S.exe
+C:\Users\Modjadji\Documents\GitHub\Point-of-sales-System\P.O.S\P.O.S\bin\Debug\P.O.S.pdb
